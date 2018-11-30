@@ -1,0 +1,9 @@
+[package]
+name = "inth-oauth2-azure"
+version = "0.1.0"
+authors = ["Cameron Daniel <cam.daniel@gmail.com>"]
+
+[dependencies]
+inth-oauth2 = "0.16"
+url = "1.7"
+lazy_static = "1.2"
