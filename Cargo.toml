@@ -2,6 +2,8 @@
 name = "inth-oauth2-azure"
 version = "0.1.0"
 authors = ["Cameron Daniel <cam.daniel@gmail.com>"]
+repository = "https://github.com/ccakes/inth-oauth2-azure"
+readme = "README.md"
 
 [dependencies]
 inth-oauth2 = "0.16"
